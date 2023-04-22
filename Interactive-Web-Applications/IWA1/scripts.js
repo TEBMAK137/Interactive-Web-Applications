@@ -35,11 +35,6 @@ const addHandler = () => {
       add.disabled = true
     }
 }
-  
-  
-  
-
-
     
 
 subtract.addEventListener('click' , subtractHandler)
