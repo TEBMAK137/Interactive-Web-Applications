@@ -1,3 +1,3 @@
 // scripts.js
 
-console.log(Roles, nwabisa, johannes, alex);
+console.log('Roles:', nwabisa, johanes, alex)
